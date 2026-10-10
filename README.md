@@ -78,4 +78,4 @@ Multiplayer funguje **jen když hru otevřeš přímo v Claude** (jako artefakt)
 
 ## Licence
 
-Doplň podle sebe (například MIT pro kód). Bez uvedené licence zůstávají všechna práva autorovi.
+MIT, Bez uvedené licence zůstávají všechna práva autorovi.
