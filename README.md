@@ -2,7 +2,7 @@
 
 Realistická závodní hra v prohlížeči, odehrávající se na okruhu inspirovaném Nürburgringem Nordschleife. Celá hra je **jeden soubor HTML** (`index.html`), běží bez instalace a po načtení i bez internetu. Rozhraní je v češtině.
 
-> Hru jsem vytvořil s pomocí Claude. Trať, vozy, textury i zvuk jsou generované v kódu, žádné externí modely ani obrázky.
+> Hru jsem vytvořil já. Trať, vozy, textury i zvuk jsou generované v kódu, žádné externí modely ani obrázky.
 
 ## Jak hru spustit
 
