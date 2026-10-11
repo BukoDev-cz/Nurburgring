@@ -2,7 +2,7 @@
 
 Realistická závodní hra v prohlížeči, odehrávající se na okruhu inspirovaném Nürburgringem Nordschleife. Celá hra je **jeden soubor HTML** (`index.html`), běží bez instalace a po načtení i bez internetu. Rozhraní je v češtině.
 
-> Hru jsem vytvořil s pomocí Claude. Trať, vozy, textury i zvuk jsou generované v kódu, žádné externí modely ani obrázky.
+> Hru jsem vytvořil já. Trať, vozy, textury i zvuk jsou generované v kódu, žádné externí modely ani obrázky.
 
 ## Jak hru spustit
 
@@ -86,7 +86,7 @@ Multiplayer funguje **jen když hru otevřeš přímo v Claude** (jako artefakt)
 
 ## Licence
 
-Doplň podle sebe (například MIT pro kód). Bez uvedené licence zůstávají všechna práva autorovi.
+MIT. Bez uvedené licence zůstávají všechna práva autorovi.
 
 ## Kariéra
 V menu nahoře: 12 událostí ve 4 sériích (Nováček → Klubová → Profesionálové → Legenda Ringu). Série se odemkne po vyhrání 2 událostí v předchozí. Za výhru dostaneš kredity (čistý závod bez nárazu +25 %), za prohru malou útěchu. V garáži kupuješ vozy (GT Coupé, GT3 Race; vyšší série je vyžadují) a vylepšuješ motor, pneumatiky, brzdy a hmotnost (3 stupně). Postup se ukládá v prohlížeči.
