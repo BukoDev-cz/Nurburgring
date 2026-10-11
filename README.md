@@ -4,13 +4,6 @@ Realistická závodní hra v prohlížeči, odehrávající se na okruhu inspiro
 
 > Hru jsem vytvořil já. Trať, vozy, textury i zvuk jsou generované v kódu, žádné externí modely ani obrázky.
 
-## Jak hru spustit
-
-- **Na počítači:** stáhni `index.html` a otevři ho dvojklikem v Chrome, Edge nebo Firefoxu.
-- **Na webu (GitHub Pages):** nahraj soubor do repozitáře jako `index.html`, v *Settings → Pages* zvol větev `main` a složku `/ (root)`. Hra pak poběží na `https://<uživatel>.github.io/<repozitář>/`. Na mobilu ji můžeš v Chrome přidat na plochu (menu ⋮ → *Přidat na plochu*).
-
-Doporučení: aktuální Chrome nebo Edge s hardwarovou akcelerací WebGL. Na mobilu hraj nejlépe na šířku.
-
 ## Co hra umí
 
 - **Fyzika:** vlastní čtyřkolový model (přenos zatížení, tření pneumatik, ABS, kontrola trakce, ESC, aerodynamika, teplota a opotřebení pneumatik, poškození).
