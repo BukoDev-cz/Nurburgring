@@ -66,7 +66,7 @@ Multiplayer funguje **jen když hru otevřeš přímo v Claude** (jako artefakt)
 
 ## Technické informace
 
-- Jediný soubor `index.html`, bez serveru a bez sestavování; obsahuje i knihovnu **three.js r128** a hudbu.
+- `index.html`, bez serveru a bez sestavování; obsahuje i knihovnu **three.js r128** a hudbu.
 - Veškerá 3D grafika (trať, vozy, stromy, textury) je procedurální. Fyzika běží na pevném kroku 240 Hz.
 - Nastavení (ovládání, kvalita, hlasitost hudby, efekty) se ukládá do `localStorage` prohlížeče.
 - Zdrojový kód je v souboru jen zmenšený (minifikovaný). Kdo soubor stáhne, kód přečíst může. Chceš-li kód chránit, nezveřejňuj ho.
