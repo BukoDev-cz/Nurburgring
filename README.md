@@ -22,6 +22,14 @@ Doporučení: aktuální Chrome nebo Edge s hardwarovou akcelerací WebGL. Na mo
 - **Zvuk a hudba:** syntetizovaný motor, pneumatiky, vítr a déšť, k tomu hudební smyčka s ztlumením při jízdě.
 - **Měření kol:** časy kol, mezičasy, nejlepší kolo a duch nejlepšího kola.
 
+## Výzvy, rekordy a ukládání
+
+- V menu je sekce **Výzvy** s 11 úkoly (první kolo, čisté kolo bez nárazu, 100 km, kolo pod 9:00 / 8:00 / 7:30, kolo za deště, výhra nad lehkým / středním / těžkým botem, závod v multiplayeru). Splněná výzva se oznámí a zůstane zaškrtnutá.
+- **Nejlepší kola** se ukládají zvlášť pro každý vůz (osm nejlepších časů s datem).
+- Hra si pamatuje poslední zvolený vůz, počasí, soupeře, počet kol, asistenty, kameru, kvalitu grafiky a hlasitost hudby.
+- Všechno se ukládá jen v prohlížeči (`localStorage`), nikam se neposílá. Smazáním dat webu se pokrok smaže.
+- Na dotykových zařízeních se jako výchozí zvolí **nízká kvalita**, aby hra běžela plynule. Vyšší kvalitu můžeš zapnout v menu.
+
 ## Závod proti botovi
 
 V menu v sekci **Soupeř** zvol obtížnost (lehký, střední, těžký) a počet kol. Bot jede po trati podle rychlostního profilu a reaguje na kolize. Během závodu můžeš přepnout kameru na soupeře klávesou **V** (na mobilu tlačítko *Soupeř*).
@@ -78,4 +86,4 @@ Multiplayer funguje **jen když hru otevřeš přímo v Claude** (jako artefakt)
 
 ## Licence
 
-MIT, Bez uvedené licence zůstávají všechna práva autorovi.
+MIT Bez uvedené licence zůstávají všechna práva autorovi.
